@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "750423543061",
+    "project_id": "etec-center",
+    "storage_bucket": "etec-center.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750423543061:android:fe3526d3df11670b64ed1c",
+        "android_client_info": {
+          "package_name": "com.etec.etec_center"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750423543061-nfhbnes07utnb6peoub3no58b6u4ot02.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.etec.etec_center",
+            "certificate_hash": "a789e505c817a122ea906ea6eaa3d48b3a30ab18"
+          }
+        },
+        {
+          "client_id": "750423543061-as13s1797u5445lft69gbtgn1hnhalt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWEAx6f7RURqXE-jweGJ6-FQYy6j0gYW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750423543061-as13s1797u5445lft69gbtgn1hnhalt3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
